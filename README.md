@@ -1,4 +1,4 @@
-Hello-Git-World
+Hello-World
 ===============
 
 My first repository
